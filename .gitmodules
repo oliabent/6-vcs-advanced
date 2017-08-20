@@ -1,0 +1,3 @@
+[submodule "assets/task4"]
+	path = assets/task4
+	url = https://github.com/oliabent/6-vcs-advanced.git
